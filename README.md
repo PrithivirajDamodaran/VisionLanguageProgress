@@ -16,11 +16,16 @@ Repository to track the progress in V+L Multimodal Learning, including the datas
 - Contrastive
 - Generative
 
+## Modality Agnostic approaches
+- Deep mind's Perciever
+- Deep mind's Perciever I/O
+- Diffusion 
+
 ## V+L libraries for practioners
 - [Coming Soon ! Litefuse]
 
 ## Seminal blogs articles
-- [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/#:~:text=Processing%20images%20to%20generate%20text,text%20via%20a%20text%20decoder.)
+- [Lilian Weng's Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/#:~:text=Processing%20images%20to%20generate%20text,text%20via%20a%20text%20decoder.)
 
 ## Key people to follow
 
